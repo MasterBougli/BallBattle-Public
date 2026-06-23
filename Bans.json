@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "bans": [
+    {
+      "steamId": "7656119XXXXXXXXXX",
+      "reason": "Cheat",
+      "timestamp": "2026-06-23",
+      "expire": 0
+    }
+  ],
+  "signature": "BASE64_RSA_SIGNATURE_HERE"
+}
